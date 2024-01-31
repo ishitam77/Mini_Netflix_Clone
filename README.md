@@ -33,7 +33,7 @@ ng serve
 ```
 
 **Open your browser (Chrome) and navigate to http://localhost:4200/ to view the application.**
-**Use Google Chrome for better Website View**
+**Use Google Chrome for better Website View.**
 
 # API Integration
 
