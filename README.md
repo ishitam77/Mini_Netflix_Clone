@@ -18,7 +18,7 @@ This project is a mini Netflix clone developed using Angular and Bootstrap, desi
 # Getting Started
 > Clone the Repository:
 ```
-https://github.com/ishitam77/Mini_Netflix_Clone.git
+git clone https://github.com/ishitam77/Mini_Netflix_Clone.git
 ```
 
 > Install Dependencies:
@@ -32,7 +32,8 @@ npm install
 ng serve
 ```
 
-**Open your browser and navigate to http://localhost:4200/ to view the application.**
+**Open your browser (Chrome) and navigate to http://localhost:4200/ to view the application.**
+**Use Google Chrome for better Website View**
 
 # API Integration
 
